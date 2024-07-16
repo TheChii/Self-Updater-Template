@@ -1,7 +1,7 @@
 import os
 import urllib.request
 
-CURRENT_VERSION = "1.0.0"
+CURRENT_VERSION = "1.0.1"
 VERSION_URL = "https://raw.githubusercontent.com/TheChii/Self-Updater-Template/main/version.txt"  
 UPDATE_URL = "https://raw.githubusercontent.com/TheChii/Self-Updater-Template/main/main.py"    
 
